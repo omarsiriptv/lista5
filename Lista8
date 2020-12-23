@@ -6,17 +6,16 @@ http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="República Dominicana", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2019/08/TELECARIBE.jpeg" group-title="República Dominicana",TelecaribeHD
-https://cdn4.hostlagarto.com:8081/Telecaribehd/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-logo="https://forounivers.com/uploads/monthly_2020_01/large.1908471268_CascaraTV.png.1a42620f772b343d763e7f55e4ccc6f2.png" group-title="República Dominicana",CascaraTV
 https://ss5.domint.net:3036/ctv_str/cascaratv/chunklist_w592195272.m3u8
 
-#EXTINF:-1 tvg-id="frecuencia musical tv" tvg-name="FRECUENCIA MUSICAL TV HD" tvg-logo="https://image.roku.com/developer_channels/prod/dfd2c68cb511c2ccff50a2514b5c8b906cb2a3fa02cb092470ddd8e0c07f821c.png", group-title="Ecuador", FRECUENCIA MUSICAL TV HD
+#EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/dfd2c68cb511c2ccff50a2514b5c8b906cb2a3fa02cb092470ddd8e0c07f821c.png", group-title="Ecuador", FRECUENCIA MUSICAL TV HD
 https://5c21f7ec1999d.streamlock.net:443/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-id="frecuencia musical tv 2" tvg-name="FRECUENCIA MUSICAL TV 2" tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-5.01.52-AM-1.jpeg", group-title="Ecuador", FRECUENCIA MUSICAL TV 2
+
+#EXTINF:0 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-5.01.52-AM-1.jpeg", group-title="Ecuador", FRECUENCIA MUSICAL TV 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
-#EXTINF:-1 tvg-id="frecuencia musical tv 3" tvg-name="FRECUENCIA MUSICAL TV 3" tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-6.07.09-AM-1.jpeg", group-title="Ecuador", FRECUENCIA MUSICAL TV 3
+
+#EXTINF:0 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-6.07.09-AM-1.jpeg", group-title="Ecuador", FRECUENCIA MUSICAL TV 3
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Películas", Zee mundo
@@ -106,20 +105,14 @@ https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w2107609275.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/gevRUYm4DPmDYq25_NVSazB6kGL-moyKxQAyv2cNhlm767bFqIwomuLpVJoA7VGGPDqQ2FXIDBIPpVb9PeXhfJcr_PbcWA0VLD-_NVAnupTUjXsm-dV644uhNQ" group-title="República Dominicana",FUEGOTV
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
 
-#EXTINF:0,TVvision(RD)
-https://cdn4.hostlagarto.com:8081/tvvision/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png" group-title="República Dominicana",Telemicro (RD)
-https://playback.akamaized.net/streams/27456795_8825585_lsi8jmveuhffr2j5ai3_1/media/27456795_8825585_lsi8jmveuhffr2j5ai3_1@628000p.m3u8?dw=14400&ts=1608062400&hdnts=exp=1608236712~acl=/streams/27456795_8825585_lsi8jmveuhffr2j5ai3_1/media*~hmac=d7ea8f3185195f1a5076c7d0de3de6425005ff63f9224811e0391ef9fa9d865b
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png" group-title="República Dominicana",Telemicro
+https://playback.akamaized.net/streams/27456795_8825585_lsijljn5z7rrulw474p_1/media/27456795_8825585_lsijljn5z7rrulw474p_1@628000p.m3u8?dw=14400&ts=1608598800&hdnts=exp=1608774078~acl=/streams/27456795_8825585_lsijljn5z7rrulw474p_1/media*~hmac=750867356890a9863bfaa596c24b0408c6ac7d6dfd29c5f235bfa4779ceae852
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8C8mwrosXWU/Xl3ZcjaTkwI/AAAAAAAAr5Q/9E2KOKeqtdUgYxFH4NVXvq4lqTv3sMcPgCLcBGAsYHQ/s1600/BellevisionHD.png" group-title="República Dominicana",Bellavision
-https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8?nimblesessionid=4487037
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMRloXN.png" group-title="República Dominicana",SUPER TV DOMINICANA
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
-
-#EXTINF:0 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",56TV
-http://castv10.plugstreaming.com:1935/somos56/somos56/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/romana-tv.jpg" group-title="República Dominicana",Romana TV 42
 http://tv.romanatv42.com/hls/live.m3u8
@@ -130,12 +123,6 @@ https://cm.hostlagarto.com:4445/Telecanal-28/telecanal.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-gKp4IVyQrfQ/XFJkS5JGHlI/AAAAAAAAiEU/cVyqTcJljikNakrR8Wc5TsKgnq8XgGK8gCLcBGAs/w1200-h630-p-k-no-nu/Punta-Cana-TV-Logo.png" group-title="República Dominicana",Punta Cana TV (RD)
 https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStfzcFDRPSYfM16GMKwCljO6QdafllXcx6hgKn2dbv3rCt8Djl&usqp=CAU" group-title="República Dominicana",Antena21 (RD)
-http://190.122.96.188:8888/http/002
-
-#EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="República Dominicana",Teleuniverso (RD)
-http://51.89.152.28:80/hls/tuniverso.m3u8
-
 #EXTINF:-1 tvg-logo="https://canal27.com.do/wp-content/uploads/2017/11/logo.png" group-title="República Dominicana", RNN
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
 
@@ -143,16 +130,13 @@ https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
 http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas2.png" group-title="República Dominicana",Teleantillas (RD)
-http://51.89.152.28:80/hls/tantillas.m3u8
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w730855791.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg", Mi TV Televisión Clásica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0, Retro TV Palmares
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/play-tv-png-4.png",Play TV
-https://cdn4.hostlagarto.com:8081/playtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2019/05/Central-TV-Chosica-250x180.png" group-title="Perú", Central TV (Lima)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -177,7 +161,7 @@ https://live.siete.us:1991/bestcablesports/bestcablesports/chunklist_w159678566.
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1810151415.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2018/11/cropped-LOGO-2019-1.png?fit=512%2C512&ssl=1" group-title="Perú", Onda Digital TV (Lima)
-https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8?token=fsspPWgPsMaBu3jcYcX7teUbc%2FhVLuIGTUzUxc4fEj4%3D
+https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/cultura24.png" group-title="Perú", Cultura 24 TV (Lima)
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
@@ -213,6 +197,9 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Telpin_hd.png" group-title="Argentina", Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w2137420998_b1344100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Telpin_hd.png" group-title="Argentina", Telpin Canal 3
+https://serenotv.com/argentina/canal-ln/
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="Argentina", 26TV
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1947705687_b2628000_sleng.m3u8
 
@@ -228,9 +215,6 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?Playlis
 
 #EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Acequia-TV-en-vivo-Online.png", Acequia
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/lapacho-canal-11-en-vivo.png", Lapacho TV Canal 11
-https://5b3050bb1b2d8.streamlock.net:443/tvcanal11/tvcanal11/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="Argentina", Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
@@ -276,9 +260,6 @@ https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w382997042.m3u8
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="Chile", BIO BIO
 https://unlimited1-us.dps.live/bbtv/bbtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/La_Red_HD.png" group-title="Chile", La Red
-https://cl-lared-lared-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA4MTU0MDk4LCJzZXNzaW9uIjoiMTc5LjYuMjIwLjE0MCIsIndoaXRlbGlzdCI6WyIxNzkuNi4yMjAuMTQwIl19LCJzaWduYXR1cmUiOiI2NGExYzliZmViMzYzMzBiMDUyYzY4MGY1NDI2MWQ0NzhmODQzNzg0In0%3D
-
 #EXTINF:-1 tvg-logo="https://mextv-plus.webnode.es/_files/200000098-cc4c4cd454/200/cl-reg-tectv.png" group-title="Chile",TEC Television Temuco
 http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 
@@ -310,9 +291,6 @@ https://inliveserver.com:1936/11528/mp4:11528/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0, Sol TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w690918993_b563840_DVR.m3u8?WebM3UCL
-
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.LogoOsornoTV2019.png.4a728d67d30a59b147a5375fb4608162.png", Osorno TV+
-https://593b04c4c5670.streamlock.net/8108/8108/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/723249629370953729/tKx-PznP.jpg", Canal 5 Puerto Montt
 https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8?PlaylistM3UCL
@@ -404,17 +382,12 @@ https://stream.rpc.com.py/live/trece_src.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/200px-Logotrececanal.png" group-title="Paraguay", NPY Cannal 2
 https://rds3.desdeparaguay.net/npy/npy_int_med/chunklist_w1395142325.m3u8?k=8724c16fd075274834283da7d07064547987d0b596c07340b51bf412ce0bd0aa&exp=1598994132
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/EcuadorTV-Vertical.png/revision/latest?cb=20171202010639" group-title="Ecuador",Ecuador TV Canal 7
-http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Ecuador", Ecuavisa
-https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqv47fHxF2glMtqMLmod5vk0)/dm/3/x7u0ryc/s/live-4.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ucsg.edu.ec/wp-content/uploads/2018/11/UCSG-TV-1.png" group-title="Ecuador",UCSG (Opt-1)
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/abDuYqp.png" group-title="Ecuador",ECOTEL
 https://5b38ce71f1f00.streamlock.net:443/8344/8344/playlist.m3u8?PlaylistM3UCL
@@ -574,6 +547,9 @@ https://live-edge-lon-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live
 
 #EXTINF:0 tvg-logo="https://canalvisiondorada.com.co/style/bn3q6otalyl75e0fp1619wouy1l9l4f6", Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2019/08/TELECARIBE.jpeg" group-title="República Dominicana",TelecaribeHD
+https://dcs-live.apis.anvato.net/server/play/d3zrDTGrqagTNWJGr/rendition.m3u8?track=video-4&anvsid=i177079035-n5c49c329-fdc6-46b8-a89b-bcd390cceb8c&ts=1608599800&anvtrid=2046794696282483c116fd706e3a2e93
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/iw0s8nNmOjzOpH2lwE8gBF54Uct4AysTD4jR03QY5C5WskBZSyv1zfPyiW73eghklRDGxJ_FLfyK8F8FCoufkufaLVOU-bgPy1_zcACMUGFxrsNeT9Ngvsul", CTV
 http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8?PlaylistM3UCL
