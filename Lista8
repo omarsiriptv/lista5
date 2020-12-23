@@ -51,7 +51,7 @@ http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/02/ondatv.png" group-title="República Dominicana",Onda TV 10 (RD)
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.megavisionrepdom.png.acfc742aa677be944a65ed84523b03d8.png"  group-title="República Dominicana", Megavision
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.megavisionrepdom.png.acfc742aa677be944a65ed84523b03d8.png" group-title="República Dominicana", Megavision
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qEa9cD9VJOs0TKErjvHmKDRZw1XSjmCpNBZ6Djma1XBlmoDdu8BuT0ON1x2pzUqG3y0" group-title="República Dominicana", Vegavision Canal 18
