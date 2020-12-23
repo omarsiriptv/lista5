@@ -12,10 +12,10 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/chunklist_w592195272.m3u8
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/dfd2c68cb511c2ccff50a2514b5c8b906cb2a3fa02cb092470ddd8e0c07f821c.png", group-title="Ecuador", FRECUENCIA MUSICAL TV HD
 https://5c21f7ec1999d.streamlock.net:443/8070/8070/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-5.01.52-AM-1.jpeg", group-title="Ecuador", FRECUENCIA MUSICAL TV 2
+#EXTINF:0 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-5.01.52-AM-1.jpeg" group-title="Ecuador", FRECUENCIA MUSICAL TV 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-6.07.09-AM-1.jpeg", group-title="Ecuador", FRECUENCIA MUSICAL TV 3
+#EXTINF:0 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-6.07.09-AM-1.jpeg" group-title="Ecuador", FRECUENCIA MUSICAL TV 3
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Películas", Zee mundo
