@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" group-title="Películas",Wms 12 HD
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116088_Cine_Club.png" group-title="Películas", Cine Club
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w1630748827.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png" group-title="Películas", AC Vision Movies
+https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/chunklist_w1892142435.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/orbit-tv.png" group-title="República Dominicana", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
@@ -54,14 +60,6 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.megavisionrepdom.png.acfc742aa677be944a65ed84523b03d8.png" group-title="República Dominicana", Megavision
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qEa9cD9VJOs0TKErjvHmKDRZw1XSjmCpNBZ6Djma1XBlmoDdu8BuT0ON1x2pzUqG3y0" group-title="República Dominicana", Vegavision Canal 18
-https://cdn4.hostlagarto.com:8081/canal18hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://makaoradio.com/wp-content/uploads/2019/10/makao045.png",MakaoTV
-https://cdn4.hostlagarto.com:8081/static/Makaotv/chunks.m3u8?nimblesessionid=3719556&DVR
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Color_Vision.png",Color Vision
-https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY_tZTAknHpqas7r5-io24p0)/dm/3/x7gy059/d/live-2.m3u8
 
 #EXTINF:0 tvg-logo="https://www.freepngimg.com/thumb/the_simpsons/35775-2-the-simpsons-clipart.png", Los Simpson
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
@@ -77,12 +75,6 @@ https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://lunatv.do/stream/imagen/logo-stream.png",LunaTV
 https://ss4.domint.net:3018/luna_str/lunatv/chunklist_w25714845.m3u8
-
-#EXTINF:0 tvg-logo="https://lanaciondominicana.tv/imgs/logo-lanacion-dominicana-tv.png",Nacion Dominicana TV
-https://5b59c7a47236a.streamlock.net/lanaciondominicanaTV/lanaciondominicanaTV/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Z-0ztkBMNKQ/Wr0r1Yw1kBI/AAAAAAAAdF8/ptLvtcx36wA_CK2FOXSRj43zUipiD6E1QCLcBGAs/s1600/NEXXOtv.png",NexxoTV
-http://tutvonline.is-by.us:1935/live/nexxotv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/Tv-Plata.jpg",TV Plata
 https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1651029128.m3u8
@@ -138,6 +130,9 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Retro TV Palmares
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 
+#EXTINF:0 tvg-logo="http://www.m3u.cl/logo/113069_Solo_Stand_Up.png", Solo Stand Up
+https://paneltv.online:1936/8116/8116/chunklist_w1541888514.m3u8
+
 #EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2019/05/Central-TV-Chosica-250x180.png" group-title="Perú", Central TV (Lima)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
@@ -154,8 +149,14 @@ https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/chunklist_w2007
 #EXTINF:-1 tvg-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png" group-title="Perú",BHTV (Lima)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/small.bestcablesports.png.bfca81f6525549dd57de53965483ca03.png" group-title="Perú",Best Cable
+http://cdn.win.pe:8080/UCI/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/small.bestcablesports.png.bfca81f6525549dd57de53965483ca03.png" group-title="Perú",Best Cable Sports
 https://live.siete.us:1991/bestcablesports/bestcablesports/chunklist_w159678566.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109808_Vision_TV.png" group-title="Perú", Visión TV
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w1502163631.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/657388713857675265/GVSZy4H6.png" group-title="Perú", VIA TV 360 (Región San Martín)
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1810151415.m3u8
@@ -178,6 +179,11 @@ http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_F5aYjgh2Ug/hqdefault.jpg" group-title="Brasil",TV Parana 
 http://200.189.113.201/hls/tve.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109811_All_Sports.png" group-title="Brasil",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109838_Band.png" group-title="Brasil",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w781458915.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="Argentina", AMERICA TV (HD)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -197,9 +203,6 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Telpin_hd.png" group-title="Argentina", Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w2137420998_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Telpin_hd.png" group-title="Argentina", Telpin Canal 3
-https://serenotv.com/argentina/canal-ln/
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="Argentina", 26TV
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1947705687_b2628000_sleng.m3u8
 
@@ -209,19 +212,29 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81557_TDC_TV_Santa_Fe.png" group-title="Argentina", TDC TV Santa Fe
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large_5RTV.png.0373a735a8b88a0d7b54c7cab95ecc9c.png", 5R TV  Santa Fe
+#EXTINF:0 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large_5RTV.png.0373a735a8b88a0d7b54c7cab95ecc9c.png" group-title="Argentina", 5R TV  Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108923_Canal_13_La_Rioja.jpg" group-title="Argentina", América Tucuman
+http://45.6.4.154/americatuc/vivo.m3u8
 
-#EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Acequia-TV-en-vivo-Online.png", Acequia
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116987_America_Tucuman.jpg" group-title="Argentina", Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/chunklist_w805603109.m3u8
+
+#EXTINF:0 tvg-logo="http://www.m3u.cl/logo/108904_GEN_TV.png" group-title="Argentina", Gen TV
+http://inliveserver.com:1935/14030/14030/chunklist_w938833407.m3u8
+
+#EXTINF:0 tvg-logo="http://www.m3u.cl/logo/100569_Canal_10_Mar_del_Plata.png" group-title="Argentina", Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8?nimblesessionid=21621299
+
+#EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Acequia-TV-en-vivo-Online.png" group-title="Argentina", Acequia
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="Argentina", Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-Argentina-324x160.png" group-title="Argentina",Canal 13
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w263036987_b2179072.m3u8
-
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1110436218_b1461248.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Argentina",TELEMAX 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
@@ -254,8 +267,8 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Canalcuatrosj-logo2009.png/revision/latest/scale-to-width-down/340?cb=20191222190244" group-title="Argentina", CANAL 4 SAN JUAN
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zdigvx3gYxA/WeHhgA9if_I/AAAAAAAAAuo/n_lLegArVD8iXsVlT0Npla0-YeGo8BRswCLcBGAs/w1200-h630-p-k-no-nu/Unriotv.png" group-title="Argentina",UNIRIO TV
-https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w382997042.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108917_Canal_50_Morteros.png" group-title="Argentina", CANAL 50 Morteros
+http://168.196.255.130:8080/canal50/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="Chile", BIO BIO
 https://unlimited1-us.dps.live/bbtv/bbtv.smil/playlist.m3u8
@@ -266,6 +279,18 @@ http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="Chile",Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="Chile",Sol Televisión
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1592412309_b1013840_DVR.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png" group-title="Chile",Latinos Up
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w383763050.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="Chile",Eva Stream
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w1176204768.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="Chile",G Visión
+https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w1925542638.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/san-clemente.png" group-title="Chile",UTV San Clemente
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?fluxustv.m3u8
@@ -311,7 +336,7 @@ http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/UMAGTV2-324x160.png" group-title="Chile", UMAG TV 2
-https://tls.cdnz.cl/itser4/ngrp:tser4.sdp_all/playlist.m3u8?PlaylistM3UCL
+https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/chunklist_w1017305333_b3000000_slen.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_de_Arica_TV.png" group-title="Chile", Arica TV
 https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
@@ -354,6 +379,9 @@ https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LHn9ofg.png" group-title="CHILE" group-title="Chile",CONTIVISION (HD)
 https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LHn9ofg.png" group-title="CHILE" group-title="Chile",CN TV
+https://inliveserver.com:1936/11516/11516/chunklist_w1116891327.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78yEgo89Wp4fL5PZ9UpMdKi0TN9rtGMxmoajQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Chile",Antofagasta TV
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
 
@@ -385,7 +413,10 @@ https://rds3.desdeparaguay.net/npy/npy_int_med/chunklist_w1395142325.m3u8?k=8724
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ucsg.edu.ec/wp-content/uploads/2018/11/UCSG-TV-1.png" group-title="Ecuador",UCSG (Opt-1)
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109764_TV_Puruwa.png" group-title="Ecuador",TV Puruwa
+https://srv.panelcast.net/puruwalive/puruwalive/chunklist_w71590067.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ucsg.edu.ec/wp-content/uploads/2018/11/UCSG-TV-1.png" group-title="Ecuador",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 
 
@@ -867,6 +898,9 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="Noticias",CBS (USA)
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+
+#EXTINF:-1 group-title="Noticias",CBS Los Angeles
+https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/0965cf2c-db90-40e2-baa0-7e6752d01e71:CHS/variant/3763a6eceffa073cd48a6ba274c16da8/bandwidth/1752960.m3u8
 
 #EXTINF:-1 group-title="Noticias",BBC News 
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
