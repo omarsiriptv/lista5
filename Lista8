@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" group-title="Películas",Wms 12 HD
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" group-title="Películas",PRUEBA
+https://vxlive.cdn.antel.net.uy/auth_livesignal_614,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjE0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1ODk4NDgmcmFuZG9tPVNoN3NzYWp5OXAmYy1pcD0xNzkuNi4yMjAuMTQwLDEzMDgyYmM1YTE1NDRiN2RkOTI3Y2FlMDAwYzZhM2NkM2E5ZjVmZmQ5NThlOGY0NmMwMzcyMWQ3MGQ4NzM2MTI=/vxfmt=hls/h_d1aa072b89b67745c4f1e410aa1b6fc5/var3000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116088_Cine_Club.png" group-title="Películas", Cine Club
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w1630748827.m3u8
 
@@ -400,6 +403,35 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="Bolivia",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="Uruguay", Canal 4 Uruguay
+https://vxlive.cdn.antel.net.uy/auth_livesignal_689,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjg5JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTAyNzgmcmFuZG9tPW1oTE5qbTJTSVYmYy1pcD0xNzkuNi4yMjAuMTQwLGVhZDBhNzJjNDBkYzYzZDhkZDU2YmZhNThjZWZkYTY1MmJmM2I4MjhmYTA3NTQwOTg5ZTk3MWQ1OGVmZDdmZGM=/vxfmt=hls/h_a1cc06fba47cd79dd143093531543f10/var3000000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg" group-title="Uruguay", Canal 7 Uruguay
+https://vxlive.cdn.antel.net.uy/auth_livesignal_693,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjkzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTA2NjAmcmFuZG9tPVhCZkQ1N1dEWTAmYy1pcD0xNzkuNi4yMjAuMTQwLDI0MGRkNjYyZTYyMjY3ZTVkMTgwNmJiM2JiNjhlZTllNTI5Y2I2Y2EzY2ZiNTM3NjM4MWY3YjFlNmU0NWQ4MzE=/vxfmt=hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg" group-title="Uruguay", TV Nacional Uruguay
+https://vxlive.cdn.antel.net.uy/auth_livesignal_835,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODM1JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTA1MjcmcmFuZG9tPWVGTTJpSFRrSFMmYy1pcD0xNzkuNi4yMjAuMTQwLGE1YzNjNDk0MmY2ZGU5MjkyYjcwYmYzODFiYmVlNzY4MDIzMzE0MmVjZDg0NTcxN2Y5ZDZlYmYyNjAxYzg5OWY=/vxfmt=hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6067/240/default.jpg" group-title="Uruguay", Tele Rocha Uruguay
+https://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTA4NzUmcmFuZG9tPUxFMXczWnhaUEMmYy1pcD0xNzkuNi4yMjAuMTQwLDQ4YmZhMWZhZDE5MTY2NjUzMzRjYzk2ZGE4MzM1YzFiZWFiNjIzZjNhZDVjNzRhY2JmY2Y2MzBjYWU2ODQ3NTY=/vxfmt=hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="Uruguay", Canal 12 Melo Uruguay
+https://vxlive.cdn.antel.net.uy/auth_livesignal_896,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODk2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTExMzkmcmFuZG9tPVNveVVIcU1nNEEmYy1pcD0xNzkuNi4yMjAuMTQwLDFmNzQ1OWVlZWE0MzhjYmE0MDUyNTRiZWNlOWQxYTU1NzI2ZmE5MTgxMzNkMjQ2MmExMTI4YTZhY2JhMzZjNzU=/vxfmt=hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg" group-title="Uruguay", Canal 8 Uruguay
+https://vxlive.cdn.antel.net.uy/auth_livesignal_614,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjE0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTEyNDAmcmFuZG9tPUlyZ2JMakJXeUQmYy1pcD0xNzkuNi4yMjAuMTQwLGQwZTYzOTZjMzg1YmFjMjM0MTA2ZWJiOTg2NzIwNTU3ZjI2NTZjODJkY2MwMjA4Njk1ZDExOTY2YjI5YmI5ODk=/vxfmt=hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9239/240/default.jpg" group-title="Uruguay", Canal 4 Paysandú Uruguay
+https://vxlive.cdn.antel.net.uy/auth_livesignal_642,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjQyJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTEzNTMmcmFuZG9tPWd5SDY3eVBWUFImYy1pcD0xNzkuNi4yMjAuMTQwLDcwNWRlYzY1MjlmMTk2ZjJlNWY2NjM2Njg3OTFiODNhYzFiM2FlYmU2YmVhNjNmYjU1ZTJjMzM5NzI5YWM2YTI=/vxfmt=hls/h_efef4d36d9148ff1540f7b71dd70656f/var3000000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6707/240/default.jpg" group-title="Uruguay", A+V Uruguay
+https://vxlive.cdn.antel.net.uy/auth_livesignal_874,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTE5MDQmcmFuZG9tPUwwYjJUeG5HYTYmYy1pcD0xNzkuNi4yMjAuMTQwLDY5ODJmZTk4OTJiYmY1ZjNjNjI0MjIyYmMwNjM1YTQwMTgzZjBkMzlhMmRiMTQwZjQzOTQxYjllZDg2NjAyZGI=/vxfmt=hls/h_6f60c8398c12d9f6dec15743fce5d8e4/var3000000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6068/240/default.jpg" group-title="Uruguay", Uruguay Natural
+https://vxlive.cdn.antel.net.uy/auth_livesignal_504,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNTA0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTIzMzUmcmFuZG9tPWx3ZWlzeTRFc1omYy1pcD0xNzkuNi4yMjAuMTQwLGExZDEwMTVjOTE5ZTRjNjY1OTNiNTZkNWY3ZDJiNjNiNDM3YmZjZTNjZWM3OGJkMjZjZDY0MGQ0YjllODBkNzA=/vxfmt=hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6070/240/default.jpg" group-title="Uruguay", Zebra Televisión
+https://vxlive.cdn.antel.net.uy/auth_livesignal_867,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODY3JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTI3NzQmcmFuZG9tPXlRa3psNXFpTmEmYy1pcD0xNzkuNi4yMjAuMTQwLDA3MDBlM2JhMDQzOTFkM2UzMGVjNzhiMzY2ZTEzMTJjZTE0ZDEwZjQ2OTViYTVhMTU1ZTkwOWQyYmRhNGRiMmI=/vxfmt=hls/h_2e9873985fef690409a309a1512d7468/var3000000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2015/03/UnicanalLogotvpy.jpg" group-title="Paraguay",UNICANAL PARAGUAY
 http://45.55.127.106/live/unicanal_src.m3u8
@@ -476,6 +508,9 @@ https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/chunklist_w1178508246
 
 #EXTINF:-1 tvg-logo="https://www.ccsalespro.com/wp-content/uploads/2019/04/WOW_Logo_only.png" group-title="El Salvador", WOW TV El Salvador
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="El Salvador", Canal 33 El Salvador
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_WHITE.png" group-title="El Salvador",Tele1 (El Salvador)
 https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/chunklist_w1614286216_b1428000_DVR_sleng.m3u8
@@ -586,7 +621,7 @@ https://dcs-live.apis.anvato.net/server/play/d3zrDTGrqagTNWJGr/rendition.m3u8?tr
 http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Colombia", NTN24
-https://rcnhd.cdn.net.co/live04/ntn24_360p.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0rmPl0iI-oEBz8Wd6E1dPQ)/dm/3/x7w4okl/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="Colombia",Caracol
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
@@ -765,13 +800,16 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w98444570
 #EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="Deportes", Fight Sports TV
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/31488/240/default.jpg" group-title="Deportes", 1000 x Hora
+https://vxlive.cdn.antel.net.uy/auth_livesignal_684,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjg0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1OTI2MTQmcmFuZG9tPTlhTVE1Wll6blcmYy1pcD0xNzkuNi4yMjAuMTQwLDQ2NDI4YjA5OTMxYmIzYjMzYjc2ZTZhODA3Y2Q2NTZlYjM5NDk5ZTllMWE3NjAzNmVhMThhZjdkNzEzMjJlNjE=/vxfmt=hls/h_38eb4820aa2bfe378eb331bcd01fcdec/var3000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab34852c066e_ElGarageTV.png.207c609cc3c10d6210c22dcaf4e2e08c.png" group-title="Deportes", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UQ7w-yM9xb4/XPMVYvb3GSI/AAAAAAAAA88/4s1Xti_TqQoqyFON6EEPfyqc49_TDTL_wCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-01-21-14-27.png" group-title="Deportes", 100 Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes",Motorsport TV www.achoAPPS.com
+#EXTINF:-1 group-title="Deportes",Motorsport TV 
 http://45.58.62.92:8084
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/Harley-Davidson-Logo.png" group-title="Deportes",Harley Davidson TV EN
@@ -816,7 +854,7 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Deportes",OLIMPIC CHANEL
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+https://ott-dai.olympicchannel.com/ocshls/OC1.m3u8
 
 #EXTINF:-1 group-title="Deportes", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -883,6 +921,9 @@ https://tastemade.samsung.wurl.com/manifest/b68a011ea6f91153c0b2e3c4b768d869.m3u
 
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/396-3966613_71-og-tbd-transparent-clipart.png" group-title="Variados",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 group-title="Noticias", Scientology Network
+https://stream6.scientology.org/stream/hls_960x540_2000k.m3u8?offset=30
 
 #EXTINF:-1 group-title="Noticias", Newsmax TV (USA)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
