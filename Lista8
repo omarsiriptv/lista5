@@ -22,7 +22,7 @@ https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-6.07.09-AM-1.jpeg" group-title="Ecuador", FRECUENCIA MUSICAL TV 3
-https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
+http://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Películas", Zee mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
@@ -86,10 +86,10 @@ https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w2107609275.m3u8
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png" group-title="República Dominicana",Telemicro
-https://playback.akamaized.net/streams/28126860_8825282_lsicic2b8eq5grrp8vz_1/media/28126860_8825282_lsicic2b8eq5grrp8vz_1@3628000p.m3u8?dw=14400&ts=1611338400&hdnts=exp=1611514254~acl=/streams/28126860_8825282_lsicic2b8eq5grrp8vz_1/media*~hmac=da5fa06d8f10052524236cbdd4ff2da896896f302e1c4e0bb0d56818ae17b92d
+https://playback.akamaized.net/streams/28126860_8825282_lsitaonjx21n6qam1r6_1/media/28126860_8825282_lsitaonjx21n6qam1r6_1@3628000p.m3u8?dw=14400&ts=1611849600&hdnts=exp=1612024007~acl=/streams/28126860_8825282_lsitaonjx21n6qam1r6_1/media*~hmac=ffd217de783e2cd79815768b2e4dc0552a37214bbc2c536a0a5ad8deb649d107
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8C8mwrosXWU/Xl3ZcjaTkwI/AAAAAAAAr5Q/9E2KOKeqtdUgYxFH4NVXvq4lqTv3sMcPgCLcBGAsYHQ/s1600/BellevisionHD.png" group-title="República Dominicana",Bellavision
-https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8?nimblesessionid=10126053&DVR
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8?nimblesessionid=12799927
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMRloXN.png" group-title="República Dominicana",SUPER TV DOMINICANA
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
@@ -99,9 +99,6 @@ http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2X0eRO50hsY/XbykxkQ1RDI/AAAAAAAAom4/vZpAunUU4ggZAmzrL-81BSMl0xWdgA1SQCLcBGAsYHQ/s200/tc28.png" group-title="República Dominicana",TC28 (RD)
 https://cm.hostlagarto.com:4445/Telecanal-28/telecanal.myStream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-gKp4IVyQrfQ/XFJkS5JGHlI/AAAAAAAAiEU/cVyqTcJljikNakrR8Wc5TsKgnq8XgGK8gCLcBGAs/w1200-h630-p-k-no-nu/Punta-Cana-TV-Logo.png" group-title="República Dominicana",Punta Cana TV (RD)
-https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal27.com.do/wp-content/uploads/2017/11/logo.png" group-title="República Dominicana", RNN
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
