@@ -266,6 +266,12 @@ http://168.196.255.130:8080/canal50/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="Chile", BIO BIO
 https://unlimited1-us.dps.live/bbtv/bbtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="Chile", T13
+https://www.youtube.com/watch?v=rYa2KTfLW3w
+
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="Chile", 24 Horas
+https://www.youtube.com/watch?v=5bFPd0wR8C8
+
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="Chile", La Red
 https://cl-lared-lared-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExNDI3NDU3LCJzZXNzaW9uIjoiMTc5LjYuMjIwLjE0MCIsIndoaXRlbGlzdCI6WyIxNzkuNi4yMjAuMTQwIl19LCJzaWduYXR1cmUiOiI1Mjc2YmI3NDZmNjAwYzEzYmMyNzdjYWNjNjMwM2YzMjEwZjFkNWYyIn0%3D
 
