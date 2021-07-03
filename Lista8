@@ -60,6 +60,8 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.megavisionrepdom.png.acfc742aa677be944a65ed84523b03d8.png" group-title="República Dominicana", Megavision
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/canal4rd.com/wp-content/uploads/2020/09/Canal-4-Logo-e1613858670806.png?fit=684%2C685&ssl=1" group-title="República Dominicana", CerTV Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w848216409_b2658304.m3u8
 
 #EXTINF:0 tvg-logo="https://www.freepngimg.com/thumb/the_simpsons/35775-2-the-simpsons-clipart.png", Los Simpson
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
@@ -68,7 +70,7 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1081580631.m3u8
 
 #EXTINF:0 tvg-logo="https://lunatv.do/stream/imagen/logo-stream.png",LunaTV
-https://ss4.domint.net:3018/luna_str/lunatv/chunklist_w25714845.m3u8
+https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w47565399.m3u8
 
 #EXTINF:0 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/Tv-Plata.jpg",TV Plata
 https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1651029128.m3u8
@@ -89,7 +91,7 @@ https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w2107609275.m3u8
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/telemicro.png" group-title="República Dominicana",Telemicro
-https://playback.akamaized.net/streams/28126860_8825282_lsitaonjx21n6qam1r6_1/media/28126860_8825282_lsitaonjx21n6qam1r6_1@3628000p.m3u8?dw=14400&ts=1611849600&hdnts=exp=1612024007~acl=/streams/28126860_8825282_lsitaonjx21n6qam1r6_1/media*~hmac=ffd217de783e2cd79815768b2e4dc0552a37214bbc2c536a0a5ad8deb649d107
+https://playback.akamaized.net/streams/28126860_8825282_lsi2dw02qqi3pff1obt_1/media/28126860_8825282_lsi2dw02qqi3pff1obt_1@3628000p.m3u8?dw=14400&ts=1623448800&hdnts=exp=1623623608~acl=/streams/28126860_8825282_lsi2dw02qqi3pff1obt_1/media*~hmac=3f37eece330141ded22f88fcb8ab54a321d81f93d4d6afcb873b74e5276b8c21
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8C8mwrosXWU/Xl3ZcjaTkwI/AAAAAAAAr5Q/9E2KOKeqtdUgYxFH4NVXvq4lqTv3sMcPgCLcBGAsYHQ/s1600/BellevisionHD.png" group-title="República Dominicana",Bellavision
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8?nimblesessionid=12799927
@@ -178,6 +180,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/1200px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="Argentina",Tv Pública
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/1200px-Logo_TV_P%C3%BAblica_Argentina.svg.png" group-title="Argentina",Tv Pública
+https://www.youtube.com/watch?v=g908zXeOwd0
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
